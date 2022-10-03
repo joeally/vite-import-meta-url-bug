@@ -1,0 +1,16 @@
+{
+  "name": "vite-import-meta-url-bug",
+  "version": "1.0.0",
+  "description": "A small repo which illustrates the vite import.meta.url bug in web workers",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview",
+    "dev": "vite dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^3.1.4"
+  }
+}
